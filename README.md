@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sahilkumar003
+- 👋 Hi, I’m Sahil Kumar.
 - 👀 I’m interested in building project and problem solving.
-- 🌱 I’m currently learning frontend development 
-- 💞️ I’m looking to collaborate on new web development projects 
+- 🌱 I’m currently learning frontend development.
+- 💞️ I’m looking to collaborate on new web development projects.
 - 📫 How to reach me https://www.linkedin.com/in/sahil-kumar-240385191/
 
 <!---
