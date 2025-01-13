@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
+<h3 align="center"> Lifelong Learner, Curious, Backend developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkumar003&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkumar003" /> </p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sahilkumar003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
